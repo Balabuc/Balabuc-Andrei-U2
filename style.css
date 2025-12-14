@@ -1,18 +1,18 @@
 body {
     font-family: Verdana, sans-serif;
-    background-color: #f0f0f0; /* Gri foarte deschis */
+    background-color: #f0f0f0; 
     color: #333;
     margin: 40px;
     line-height: 1.5;
 }
 
 .titlu {
-    color: #1a73e8; /* Albastru */
+    color: #1a73e8; 
     text-align: center;
     padding-bottom: 10px;
 }
 
-/* Secțiunile de conținut */
+
 .div {
     background-color: #fff;
     padding: 20px;
@@ -21,25 +21,25 @@ body {
     max-width: 800px;
 }
 
-/* Titluri secțiuni */
+
 #h2, #h3 {
     color: #333;
     border-bottom: 2px solid #ddd;
     padding-bottom: 5px;
 }
 
-/* Text Bold */
+
 .gros {
     font-weight: bold;
 }
 
-/* Centrare Imagini */
+
 .imgc {
     text-align: center;
     margin: 15px 0;
 }
 
-/* Stil pentru imagini (opțional) */
+
 img {
     border: 1px solid #999;
 }
